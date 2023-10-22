@@ -1,0 +1,24 @@
+{
+  "nome": "Alefe Araujo",
+  "cpf": "253.546.050-56",
+  "email": "alefe_sk8@hotmail.com",
+  "enderecos": [
+    {
+      "logradouro": "Rua Moacyr",
+      "numero": "279",
+      "bairro": "Alto Paraiso",
+      "cidade": "Bauru",
+      "uf": "SP",
+      "cep": "17053-567",
+      "coordenadas": {
+        "latitude": -6.413175957478162,
+        "longitude": -36.78975243180889
+      }
+    }
+  ],
+  "telefones": [
+    {
+      "numero": "(14) 99186-8673"
+    }
+  ]
+}

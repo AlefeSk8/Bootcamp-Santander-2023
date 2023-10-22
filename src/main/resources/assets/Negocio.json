@@ -1,0 +1,24 @@
+{
+  "nome": "Tech Info",
+  "descricao": "Tudo sobre tecnologia",
+  "endereco": {
+    "logradouro": "Rua 2",
+    "numero": "123",
+    "bairro": "Cetro",
+    "cidade": "Bauru",
+    "uf": "SP",
+    "cep": "17037-015",
+    "coordenadas": {
+      "latitude": -6.409423752011276,
+      "longitude": -36.785114991892485
+    }
+  },
+  "telefones": [
+    {
+      "numero": "(14) 91234-5678"
+    },
+    {
+      "numero": "(14) 99876-5432"
+    }
+  ]
+}
